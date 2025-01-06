@@ -15,14 +15,8 @@
             "url": "https://cdn.jsdelivr.net/gh/indirasai-bollepalli/halfdonutchart/halfdonutchart.js",
             "integrity": "",
             "ignoreIntegrity": true
-        },
-        {
-            "kind": "builder",
-            "tag": "com-indirasai-sap-halfdonutchart-builder",
-            "url": "https://cdn.jsdelivr.net/gh/indirasai-bollepalli/halfdonutchart/halfdonutchart_Builder.js",
-            "integrity": "",
-            "ignoreIntegrity": true
         }
+
     ],
     "properties": {
         "width": {
